@@ -1,4 +1,3 @@
-```markdown
 # Highway Speed Monitoring System
 
 A microcontroller-based solution to detect overspeeding vehicles on highways using dual IR sensors, ultrasonic distance monitoring, and GSM alerts.
@@ -36,4 +35,3 @@ This system uses two IR sensors to calculate vehicle speed. If a vehicle exceeds
 5. Random car ID generation for incident tracking
 
 > **Hardware Note:** Sensor placement and pin assignments may require adjustment based on physical implementation. Tested with 20MHz crystal configuration under Proteus simulation before hardware deployment.
-```
